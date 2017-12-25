@@ -77,7 +77,8 @@
 }
 
 #seating-chart-svg {
-  transform: scale(0.6);
+  -webkit-transform: scale(0.6);
+          transform: scale(0.6);
   position: absolute;
   top: 130px;
   margin-left: -16px;
@@ -95,7 +96,8 @@
   background-color: #ffffff;
   text-align: center;
   border-radius: 5px;
-  box-shadow: 0 3px 6px rgba(0,0,0,0.06), 0 3px 6px rgba(0,0,0,0.13);
+  -webkit-box-shadow: 0 3px 6px rgba(0,0,0,0.06), 0 3px 6px rgba(0,0,0,0.13);
+          box-shadow: 0 3px 6px rgba(0,0,0,0.06), 0 3px 6px rgba(0,0,0,0.13);
 }
 
 .details-section {
