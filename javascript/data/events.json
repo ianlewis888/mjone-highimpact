@@ -1,0 +1,3260 @@
+{
+    "info": {
+        "totalRows": 475,
+        "pageNumber": 0,
+        "pageSize": 8,
+        "sortField": null,
+        "sortOrder": null
+    },
+    "message": "Greetings UserID 426899 for AccountID 11",
+    "result": [
+        {
+            "name": "Michael Jackson One",
+            "alternateName": null,
+            "id": 51754,
+            "date": "2017-12-26T03:00:00",
+            "localDate": "2017-12-25T19:00:00",
+            "localApiOnSaleDate": "2016-10-01T00:00:00",
+            "localApiOnSaleEndDate": "2017-12-25T16:30:00",
+            "description": null,
+            "endDate": "2017-12-25T22:00:00",
+            "publicUrl": "https://nliven.cirquedusoleil.com/tickets/series/ONE/michael-jackson-one-51754",
+            "localWebOnSaleStartDate": "2016-10-01T00:00:00",
+            "localWebOnSaleEndDate": "2017-12-25T16:30:00",
+            "venueMapUrl": "https://d2snfwfzfrpkup.cloudfront.net/svg/download/25",
+            "eventPromotions": [
+                {
+                    "isDefault": false,
+                    "promotionCode": "SEASNPK17",
+                    "promotionId": 1939,
+                    "priceBlocks": [
+                        {
+                            "priceLevelId": 198,
+                            "priceLevelName": "AZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 213.86,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 229.81,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 196.2,
+                            "fullRetailPrice": 212.15
+                        },
+                        {
+                            "priceLevelId": 199,
+                            "priceLevelName": "BZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 135.16,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 151.11,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 168.95,
+                            "fullRetailPrice": 184.9
+                        },
+                        {
+                            "priceLevelId": 200,
+                            "priceLevelName": "EZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 81.98,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 97.93,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 75.21,
+                            "fullRetailPrice": 91.16
+                        },
+                        {
+                            "priceLevelId": 201,
+                            "priceLevelName": "CZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 120.45,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 136.4,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 141.7,
+                            "fullRetailPrice": 157.65
+                        },
+                        {
+                            "priceLevelId": 202,
+                            "priceLevelName": "DZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 91.72,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 107.67,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 107.91,
+                            "fullRetailPrice": 123.86
+                        },
+                        {
+                            "priceLevelId": 349,
+                            "priceLevelName": "AZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 219.96,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 235.91,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 209.85,
+                            "fullRetailPrice": 225.8
+                        },
+                        {
+                            "priceLevelId": 350,
+                            "priceLevelName": "BZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 145.68,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 161.63,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 182.1,
+                            "fullRetailPrice": 198.05
+                        },
+                        {
+                            "priceLevelId": 351,
+                            "priceLevelName": "DZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 98.18,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 114.13,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 115.5,
+                            "fullRetailPrice": 131.45
+                        },
+                        {
+                            "priceLevelId": 352,
+                            "priceLevelName": "CZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 131.88,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 147.83,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 155.15,
+                            "fullRetailPrice": 171.1
+                        },
+                        {
+                            "priceLevelId": 1581,
+                            "priceLevelName": "AZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 225.9,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 241.85,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 217.48,
+                            "fullRetailPrice": 233.43
+                        },
+                        {
+                            "priceLevelId": 1582,
+                            "priceLevelName": "BZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 199.09,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 215.04,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 191.2,
+                            "fullRetailPrice": 207.15
+                        },
+                        {
+                            "priceLevelId": 1583,
+                            "priceLevelName": "CZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 168.57,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 184.52,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 162.91,
+                            "fullRetailPrice": 178.86
+                        },
+                        {
+                            "priceLevelId": 1584,
+                            "priceLevelName": "DZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 126.99,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 142.94,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 121.27,
+                            "fullRetailPrice": 137.22
+                        },
+                        {
+                            "priceLevelId": 1585,
+                            "priceLevelName": "EZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 81.98,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 97.93,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 75.21,
+                            "fullRetailPrice": 91.16
+                        }
+                    ],
+                    "limitType": "PriceLevel",
+                    "priceLevelIds": [
+                        350,
+                        351,
+                        352,
+                        354,
+                        355,
+                        356,
+                        357,
+                        358,
+                        359,
+                        361,
+                        362,
+                        363,
+                        365,
+                        366,
+                        367
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Michael Jackson One",
+            "alternateName": null,
+            "id": 51755,
+            "date": "2017-12-26T05:30:00",
+            "localDate": "2017-12-25T21:30:00",
+            "localApiOnSaleDate": "2016-10-01T00:00:00",
+            "localApiOnSaleEndDate": "2017-12-25T19:00:00",
+            "description": null,
+            "endDate": "2017-12-26T00:30:00",
+            "publicUrl": "https://nliven.cirquedusoleil.com/tickets/series/ONE/michael-jackson-one-51755",
+            "localWebOnSaleStartDate": "2016-10-01T00:00:00",
+            "localWebOnSaleEndDate": "2017-12-25T19:00:00",
+            "venueMapUrl": "https://d2snfwfzfrpkup.cloudfront.net/svg/download/25",
+            "eventPromotions": [
+                {
+                    "isDefault": false,
+                    "promotionCode": "SEASNPK17",
+                    "promotionId": 1939,
+                    "priceBlocks": [
+                        {
+                            "priceLevelId": 198,
+                            "priceLevelName": "AZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 213.86,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 229.81,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 196.2,
+                            "fullRetailPrice": 212.15
+                        },
+                        {
+                            "priceLevelId": 199,
+                            "priceLevelName": "BZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 135.16,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 151.11,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 168.95,
+                            "fullRetailPrice": 184.9
+                        },
+                        {
+                            "priceLevelId": 200,
+                            "priceLevelName": "EZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 81.98,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 97.93,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 75.21,
+                            "fullRetailPrice": 91.16
+                        },
+                        {
+                            "priceLevelId": 201,
+                            "priceLevelName": "CZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 120.45,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 136.4,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 141.7,
+                            "fullRetailPrice": 157.65
+                        },
+                        {
+                            "priceLevelId": 202,
+                            "priceLevelName": "DZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 91.72,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 107.67,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 107.91,
+                            "fullRetailPrice": 123.86
+                        },
+                        {
+                            "priceLevelId": 349,
+                            "priceLevelName": "AZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 219.96,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 235.91,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 209.85,
+                            "fullRetailPrice": 225.8
+                        },
+                        {
+                            "priceLevelId": 350,
+                            "priceLevelName": "BZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 145.68,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 161.63,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 182.1,
+                            "fullRetailPrice": 198.05
+                        },
+                        {
+                            "priceLevelId": 351,
+                            "priceLevelName": "DZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 98.18,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 114.13,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 115.5,
+                            "fullRetailPrice": 131.45
+                        },
+                        {
+                            "priceLevelId": 352,
+                            "priceLevelName": "CZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 131.88,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 147.83,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 155.15,
+                            "fullRetailPrice": 171.1
+                        },
+                        {
+                            "priceLevelId": 1581,
+                            "priceLevelName": "AZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 225.9,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 241.85,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 207.25,
+                            "fullRetailPrice": 223.2
+                        },
+                        {
+                            "priceLevelId": 1582,
+                            "priceLevelName": "BZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 199.09,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 215.04,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 182.65,
+                            "fullRetailPrice": 198.6
+                        },
+                        {
+                            "priceLevelId": 1583,
+                            "priceLevelName": "CZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 168.57,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 184.52,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 154.65,
+                            "fullRetailPrice": 170.6
+                        },
+                        {
+                            "priceLevelId": 1584,
+                            "priceLevelName": "DZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 126.99,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 142.94,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 116.5,
+                            "fullRetailPrice": 132.45
+                        },
+                        {
+                            "priceLevelId": 1585,
+                            "priceLevelName": "EZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 81.98,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 97.93,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 75.21,
+                            "fullRetailPrice": 91.16
+                        }
+                    ],
+                    "limitType": "PriceLevel",
+                    "priceLevelIds": [
+                        350,
+                        351,
+                        352,
+                        354,
+                        355,
+                        356,
+                        357,
+                        358,
+                        359,
+                        361,
+                        362,
+                        363,
+                        365,
+                        366,
+                        367
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Michael Jackson One",
+            "alternateName": null,
+            "id": 51756,
+            "date": "2017-12-27T03:00:00",
+            "localDate": "2017-12-26T19:00:00",
+            "localApiOnSaleDate": "2016-10-01T00:00:00",
+            "localApiOnSaleEndDate": "2017-12-26T16:30:00",
+            "description": null,
+            "endDate": "2017-12-26T22:00:00",
+            "publicUrl": "https://nliven.cirquedusoleil.com/tickets/series/ONE/michael-jackson-one-51756",
+            "localWebOnSaleStartDate": "2016-10-01T00:00:00",
+            "localWebOnSaleEndDate": "2017-12-26T16:30:00",
+            "venueMapUrl": "https://d2snfwfzfrpkup.cloudfront.net/svg/download/25",
+            "eventPromotions": [
+                {
+                    "isDefault": false,
+                    "promotionCode": "SEASNPK17",
+                    "promotionId": 1939,
+                    "priceBlocks": [
+                        {
+                            "priceLevelId": 198,
+                            "priceLevelName": "AZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 213.86,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 229.81,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 196.2,
+                            "fullRetailPrice": 212.15
+                        },
+                        {
+                            "priceLevelId": 199,
+                            "priceLevelName": "BZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 135.16,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 151.11,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 168.95,
+                            "fullRetailPrice": 184.9
+                        },
+                        {
+                            "priceLevelId": 200,
+                            "priceLevelName": "EZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 81.98,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 97.93,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 75.21,
+                            "fullRetailPrice": 91.16
+                        },
+                        {
+                            "priceLevelId": 201,
+                            "priceLevelName": "CZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 120.45,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 136.4,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 141.7,
+                            "fullRetailPrice": 157.65
+                        },
+                        {
+                            "priceLevelId": 202,
+                            "priceLevelName": "DZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 91.72,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 107.67,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 107.91,
+                            "fullRetailPrice": 123.86
+                        },
+                        {
+                            "priceLevelId": 349,
+                            "priceLevelName": "AZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 219.96,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 235.91,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 209.85,
+                            "fullRetailPrice": 225.8
+                        },
+                        {
+                            "priceLevelId": 350,
+                            "priceLevelName": "BZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 145.68,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 161.63,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 182.1,
+                            "fullRetailPrice": 198.05
+                        },
+                        {
+                            "priceLevelId": 351,
+                            "priceLevelName": "DZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 98.18,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 114.13,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 115.5,
+                            "fullRetailPrice": 131.45
+                        },
+                        {
+                            "priceLevelId": 352,
+                            "priceLevelName": "CZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 131.88,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 147.83,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 155.15,
+                            "fullRetailPrice": 171.1
+                        },
+                        {
+                            "priceLevelId": 1581,
+                            "priceLevelName": "AZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 225.9,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 241.85,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 207.25,
+                            "fullRetailPrice": 223.2
+                        },
+                        {
+                            "priceLevelId": 1582,
+                            "priceLevelName": "BZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 199.09,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 215.04,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 191.2,
+                            "fullRetailPrice": 207.15
+                        },
+                        {
+                            "priceLevelId": 1583,
+                            "priceLevelName": "CZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 168.57,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 184.52,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 162.91,
+                            "fullRetailPrice": 178.86
+                        },
+                        {
+                            "priceLevelId": 1584,
+                            "priceLevelName": "DZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 126.99,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 142.94,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 121.27,
+                            "fullRetailPrice": 137.22
+                        },
+                        {
+                            "priceLevelId": 1585,
+                            "priceLevelName": "EZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 81.98,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 97.93,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 75.21,
+                            "fullRetailPrice": 91.16
+                        }
+                    ],
+                    "limitType": "PriceLevel",
+                    "priceLevelIds": [
+                        350,
+                        351,
+                        352,
+                        354,
+                        355,
+                        356,
+                        357,
+                        358,
+                        359,
+                        361,
+                        362,
+                        363,
+                        365,
+                        366,
+                        367
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Michael Jackson One",
+            "alternateName": null,
+            "id": 51757,
+            "date": "2017-12-27T05:30:00",
+            "localDate": "2017-12-26T21:30:00",
+            "localApiOnSaleDate": "2016-10-01T00:00:00",
+            "localApiOnSaleEndDate": "2017-12-26T19:00:00",
+            "description": null,
+            "endDate": "2017-12-27T00:30:00",
+            "publicUrl": "https://nliven.cirquedusoleil.com/tickets/series/ONE/michael-jackson-one-51757",
+            "localWebOnSaleStartDate": "2016-10-01T00:00:00",
+            "localWebOnSaleEndDate": "2017-12-26T19:00:00",
+            "venueMapUrl": "https://d2snfwfzfrpkup.cloudfront.net/svg/download/25",
+            "eventPromotions": [
+                {
+                    "isDefault": false,
+                    "promotionCode": "SEASNPK17",
+                    "promotionId": 1939,
+                    "priceBlocks": [
+                        {
+                            "priceLevelId": 198,
+                            "priceLevelName": "AZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 213.86,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 229.81,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 196.2,
+                            "fullRetailPrice": 212.15
+                        },
+                        {
+                            "priceLevelId": 199,
+                            "priceLevelName": "BZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 135.16,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 151.11,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 168.95,
+                            "fullRetailPrice": 184.9
+                        },
+                        {
+                            "priceLevelId": 200,
+                            "priceLevelName": "EZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 81.98,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 97.93,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 75.21,
+                            "fullRetailPrice": 91.16
+                        },
+                        {
+                            "priceLevelId": 201,
+                            "priceLevelName": "CZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 120.45,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 136.4,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 141.7,
+                            "fullRetailPrice": 157.65
+                        },
+                        {
+                            "priceLevelId": 202,
+                            "priceLevelName": "DZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 91.72,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 107.67,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 107.91,
+                            "fullRetailPrice": 123.86
+                        },
+                        {
+                            "priceLevelId": 349,
+                            "priceLevelName": "AZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 219.96,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 235.91,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 209.85,
+                            "fullRetailPrice": 225.8
+                        },
+                        {
+                            "priceLevelId": 350,
+                            "priceLevelName": "BZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 145.68,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 161.63,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 182.1,
+                            "fullRetailPrice": 198.05
+                        },
+                        {
+                            "priceLevelId": 351,
+                            "priceLevelName": "DZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 98.18,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 114.13,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 115.5,
+                            "fullRetailPrice": 131.45
+                        },
+                        {
+                            "priceLevelId": 352,
+                            "priceLevelName": "CZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 131.88,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 147.83,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 155.15,
+                            "fullRetailPrice": 171.1
+                        },
+                        {
+                            "priceLevelId": 1581,
+                            "priceLevelName": "AZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 225.9,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 241.85,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 207.25,
+                            "fullRetailPrice": 223.2
+                        },
+                        {
+                            "priceLevelId": 1582,
+                            "priceLevelName": "BZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 199.09,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 215.04,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 182.65,
+                            "fullRetailPrice": 198.6
+                        },
+                        {
+                            "priceLevelId": 1583,
+                            "priceLevelName": "CZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 168.57,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 184.52,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 154.65,
+                            "fullRetailPrice": 170.6
+                        },
+                        {
+                            "priceLevelId": 1584,
+                            "priceLevelName": "DZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 126.99,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 142.94,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 116.5,
+                            "fullRetailPrice": 132.45
+                        },
+                        {
+                            "priceLevelId": 1585,
+                            "priceLevelName": "EZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 81.98,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 97.93,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 75.21,
+                            "fullRetailPrice": 91.16
+                        }
+                    ],
+                    "limitType": "PriceLevel",
+                    "priceLevelIds": [
+                        350,
+                        351,
+                        352,
+                        354,
+                        355,
+                        356,
+                        357,
+                        358,
+                        359,
+                        361,
+                        362,
+                        363,
+                        365,
+                        366,
+                        367
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Michael Jackson One",
+            "alternateName": null,
+            "id": 51758,
+            "date": "2017-12-28T03:00:00",
+            "localDate": "2017-12-27T19:00:00",
+            "localApiOnSaleDate": "2016-10-01T00:00:00",
+            "localApiOnSaleEndDate": "2017-12-27T16:30:00",
+            "description": null,
+            "endDate": "2017-12-27T22:00:00",
+            "publicUrl": "https://nliven.cirquedusoleil.com/tickets/series/ONE/michael-jackson-one-51758",
+            "localWebOnSaleStartDate": "2016-10-01T00:00:00",
+            "localWebOnSaleEndDate": "2017-12-27T16:30:00",
+            "venueMapUrl": "https://d2snfwfzfrpkup.cloudfront.net/svg/download/25",
+            "eventPromotions": [
+                {
+                    "isDefault": false,
+                    "promotionCode": "SEASNPK17",
+                    "promotionId": 1939,
+                    "priceBlocks": [
+                        {
+                            "priceLevelId": 198,
+                            "priceLevelName": "AZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 213.86,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 229.81,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 196.2,
+                            "fullRetailPrice": 212.15
+                        },
+                        {
+                            "priceLevelId": 199,
+                            "priceLevelName": "BZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 135.16,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 151.11,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 168.95,
+                            "fullRetailPrice": 184.9
+                        },
+                        {
+                            "priceLevelId": 200,
+                            "priceLevelName": "EZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 81.98,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 97.93,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 75.21,
+                            "fullRetailPrice": 91.16
+                        },
+                        {
+                            "priceLevelId": 201,
+                            "priceLevelName": "CZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 120.45,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 136.4,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 141.7,
+                            "fullRetailPrice": 157.65
+                        },
+                        {
+                            "priceLevelId": 202,
+                            "priceLevelName": "DZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 91.72,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 107.67,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 107.91,
+                            "fullRetailPrice": 123.86
+                        },
+                        {
+                            "priceLevelId": 349,
+                            "priceLevelName": "AZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 219.96,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 235.91,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 209.85,
+                            "fullRetailPrice": 225.8
+                        },
+                        {
+                            "priceLevelId": 350,
+                            "priceLevelName": "BZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 145.68,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 161.63,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 182.1,
+                            "fullRetailPrice": 198.05
+                        },
+                        {
+                            "priceLevelId": 351,
+                            "priceLevelName": "DZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 98.18,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 114.13,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 115.5,
+                            "fullRetailPrice": 131.45
+                        },
+                        {
+                            "priceLevelId": 352,
+                            "priceLevelName": "CZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 131.88,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 147.83,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 155.15,
+                            "fullRetailPrice": 171.1
+                        },
+                        {
+                            "priceLevelId": 1581,
+                            "priceLevelName": "AZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 225.9,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 241.85,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 207.25,
+                            "fullRetailPrice": 223.2
+                        },
+                        {
+                            "priceLevelId": 1582,
+                            "priceLevelName": "BZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 199.09,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 215.04,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 182.65,
+                            "fullRetailPrice": 198.6
+                        },
+                        {
+                            "priceLevelId": 1583,
+                            "priceLevelName": "CZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 168.57,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 184.52,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 154.65,
+                            "fullRetailPrice": 170.6
+                        },
+                        {
+                            "priceLevelId": 1584,
+                            "priceLevelName": "DZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 126.99,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 142.94,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 121.27,
+                            "fullRetailPrice": 137.22
+                        },
+                        {
+                            "priceLevelId": 1585,
+                            "priceLevelName": "EZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 81.98,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 97.93,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 75.21,
+                            "fullRetailPrice": 91.16
+                        }
+                    ],
+                    "limitType": "PriceLevel",
+                    "priceLevelIds": [
+                        350,
+                        351,
+                        352,
+                        354,
+                        355,
+                        356,
+                        357,
+                        358,
+                        359,
+                        361,
+                        362,
+                        363,
+                        365,
+                        366,
+                        367
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Michael Jackson One",
+            "alternateName": null,
+            "id": 51759,
+            "date": "2017-12-28T05:30:00",
+            "localDate": "2017-12-27T21:30:00",
+            "localApiOnSaleDate": "2016-10-01T00:00:00",
+            "localApiOnSaleEndDate": "2017-12-27T19:00:00",
+            "description": null,
+            "endDate": "2017-12-28T00:30:00",
+            "publicUrl": "https://nliven.cirquedusoleil.com/tickets/series/ONE/michael-jackson-one-51759",
+            "localWebOnSaleStartDate": "2016-10-01T00:00:00",
+            "localWebOnSaleEndDate": "2017-12-27T19:00:00",
+            "venueMapUrl": "https://d2snfwfzfrpkup.cloudfront.net/svg/download/25",
+            "eventPromotions": [
+                {
+                    "isDefault": false,
+                    "promotionCode": "SEASNPK17",
+                    "promotionId": 1939,
+                    "priceBlocks": [
+                        {
+                            "priceLevelId": 198,
+                            "priceLevelName": "AZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 213.86,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 229.81,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 196.2,
+                            "fullRetailPrice": 212.15
+                        },
+                        {
+                            "priceLevelId": 199,
+                            "priceLevelName": "BZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 135.16,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 151.11,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 168.95,
+                            "fullRetailPrice": 184.9
+                        },
+                        {
+                            "priceLevelId": 200,
+                            "priceLevelName": "EZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 81.98,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 97.93,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 75.21,
+                            "fullRetailPrice": 91.16
+                        },
+                        {
+                            "priceLevelId": 201,
+                            "priceLevelName": "CZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 120.45,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 136.4,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 141.7,
+                            "fullRetailPrice": 157.65
+                        },
+                        {
+                            "priceLevelId": 202,
+                            "priceLevelName": "DZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 91.72,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 107.67,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 107.91,
+                            "fullRetailPrice": 123.86
+                        },
+                        {
+                            "priceLevelId": 349,
+                            "priceLevelName": "AZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 219.96,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 235.91,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 209.85,
+                            "fullRetailPrice": 225.8
+                        },
+                        {
+                            "priceLevelId": 350,
+                            "priceLevelName": "BZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 145.68,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 161.63,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 182.1,
+                            "fullRetailPrice": 198.05
+                        },
+                        {
+                            "priceLevelId": 351,
+                            "priceLevelName": "DZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 98.18,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 114.13,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 115.5,
+                            "fullRetailPrice": 131.45
+                        },
+                        {
+                            "priceLevelId": 352,
+                            "priceLevelName": "CZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 131.88,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 147.83,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 155.15,
+                            "fullRetailPrice": 171.1
+                        },
+                        {
+                            "priceLevelId": 1581,
+                            "priceLevelName": "AZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 225.9,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 241.85,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 217.48,
+                            "fullRetailPrice": 233.43
+                        },
+                        {
+                            "priceLevelId": 1582,
+                            "priceLevelName": "BZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 199.09,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 215.04,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 191.2,
+                            "fullRetailPrice": 207.15
+                        },
+                        {
+                            "priceLevelId": 1583,
+                            "priceLevelName": "CZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 168.57,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 184.52,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 162.91,
+                            "fullRetailPrice": 178.86
+                        },
+                        {
+                            "priceLevelId": 1584,
+                            "priceLevelName": "DZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 126.99,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 142.94,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 121.27,
+                            "fullRetailPrice": 137.22
+                        },
+                        {
+                            "priceLevelId": 1585,
+                            "priceLevelName": "EZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 81.98,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 97.93,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 75.21,
+                            "fullRetailPrice": 91.16
+                        }
+                    ],
+                    "limitType": "PriceLevel",
+                    "priceLevelIds": [
+                        350,
+                        351,
+                        352,
+                        354,
+                        355,
+                        356,
+                        357,
+                        358,
+                        359,
+                        361,
+                        362,
+                        363,
+                        365,
+                        366,
+                        367
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Michael Jackson One",
+            "alternateName": null,
+            "id": 51760,
+            "date": "2017-12-30T03:00:00",
+            "localDate": "2017-12-29T19:00:00",
+            "localApiOnSaleDate": "2016-10-01T00:00:00",
+            "localApiOnSaleEndDate": "2017-12-29T16:30:00",
+            "description": null,
+            "endDate": "2017-12-29T22:00:00",
+            "publicUrl": "https://nliven.cirquedusoleil.com/tickets/series/ONE/michael-jackson-one-51760",
+            "localWebOnSaleStartDate": "2016-10-01T00:00:00",
+            "localWebOnSaleEndDate": "2017-12-29T16:30:00",
+            "venueMapUrl": "https://d2snfwfzfrpkup.cloudfront.net/svg/download/25",
+            "eventPromotions": [
+                {
+                    "isDefault": false,
+                    "promotionCode": "SEASNPK17",
+                    "promotionId": 1939,
+                    "priceBlocks": [
+                        {
+                            "priceLevelId": 198,
+                            "priceLevelName": "AZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 213.86,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 229.81,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 196.2,
+                            "fullRetailPrice": 212.15
+                        },
+                        {
+                            "priceLevelId": 199,
+                            "priceLevelName": "BZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 135.16,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 151.11,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 168.95,
+                            "fullRetailPrice": 184.9
+                        },
+                        {
+                            "priceLevelId": 200,
+                            "priceLevelName": "EZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 81.98,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 97.93,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 75.21,
+                            "fullRetailPrice": 91.16
+                        },
+                        {
+                            "priceLevelId": 201,
+                            "priceLevelName": "CZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 120.45,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 136.4,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 141.7,
+                            "fullRetailPrice": 157.65
+                        },
+                        {
+                            "priceLevelId": 202,
+                            "priceLevelName": "DZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 91.72,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 107.67,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 107.91,
+                            "fullRetailPrice": 123.86
+                        },
+                        {
+                            "priceLevelId": 349,
+                            "priceLevelName": "AZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 219.96,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 235.91,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 209.85,
+                            "fullRetailPrice": 225.8
+                        },
+                        {
+                            "priceLevelId": 350,
+                            "priceLevelName": "BZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 145.68,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 161.63,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 182.1,
+                            "fullRetailPrice": 198.05
+                        },
+                        {
+                            "priceLevelId": 351,
+                            "priceLevelName": "DZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 98.18,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 114.13,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 115.5,
+                            "fullRetailPrice": 131.45
+                        },
+                        {
+                            "priceLevelId": 352,
+                            "priceLevelName": "CZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 131.88,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 147.83,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 155.15,
+                            "fullRetailPrice": 171.1
+                        },
+                        {
+                            "priceLevelId": 1581,
+                            "priceLevelName": "AZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 225.9,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 241.85,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 207.25,
+                            "fullRetailPrice": 223.2
+                        },
+                        {
+                            "priceLevelId": 1582,
+                            "priceLevelName": "BZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 199.09,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 215.04,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 182.65,
+                            "fullRetailPrice": 198.6
+                        },
+                        {
+                            "priceLevelId": 1583,
+                            "priceLevelName": "CZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 168.57,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 184.52,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 162.91,
+                            "fullRetailPrice": 178.86
+                        },
+                        {
+                            "priceLevelId": 1584,
+                            "priceLevelName": "DZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 126.99,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 142.94,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 121.27,
+                            "fullRetailPrice": 137.22
+                        },
+                        {
+                            "priceLevelId": 1585,
+                            "priceLevelName": "EZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 81.98,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 97.93,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 75.21,
+                            "fullRetailPrice": 91.16
+                        }
+                    ],
+                    "limitType": "PriceLevel",
+                    "priceLevelIds": [
+                        350,
+                        351,
+                        352,
+                        354,
+                        355,
+                        356,
+                        357,
+                        358,
+                        359,
+                        361,
+                        362,
+                        363,
+                        365,
+                        366,
+                        367
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Michael Jackson One",
+            "alternateName": null,
+            "id": 51761,
+            "date": "2017-12-30T05:30:00",
+            "localDate": "2017-12-29T21:30:00",
+            "localApiOnSaleDate": "2016-10-01T00:00:00",
+            "localApiOnSaleEndDate": "2017-12-29T19:00:00",
+            "description": null,
+            "endDate": "2017-12-30T00:30:00",
+            "publicUrl": "https://nliven.cirquedusoleil.com/tickets/series/ONE/michael-jackson-one-51761",
+            "localWebOnSaleStartDate": "2016-10-01T00:00:00",
+            "localWebOnSaleEndDate": "2017-12-29T19:00:00",
+            "venueMapUrl": "https://d2snfwfzfrpkup.cloudfront.net/svg/download/25",
+            "eventPromotions": [
+                {
+                    "isDefault": false,
+                    "promotionCode": "SEASNPK17",
+                    "promotionId": 1939,
+                    "priceBlocks": [
+                        {
+                            "priceLevelId": 198,
+                            "priceLevelName": "AZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 213.86,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 229.81,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 196.2,
+                            "fullRetailPrice": 212.15
+                        },
+                        {
+                            "priceLevelId": 199,
+                            "priceLevelName": "BZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 135.16,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 151.11,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 168.95,
+                            "fullRetailPrice": 184.9
+                        },
+                        {
+                            "priceLevelId": 200,
+                            "priceLevelName": "EZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 81.98,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 97.93,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 75.21,
+                            "fullRetailPrice": 91.16
+                        },
+                        {
+                            "priceLevelId": 201,
+                            "priceLevelName": "CZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 120.45,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 136.4,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 141.7,
+                            "fullRetailPrice": 157.65
+                        },
+                        {
+                            "priceLevelId": 202,
+                            "priceLevelName": "DZ",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 91.72,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 107.67,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 107.91,
+                            "fullRetailPrice": 123.86
+                        },
+                        {
+                            "priceLevelId": 349,
+                            "priceLevelName": "AZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 219.96,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 235.91,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 209.85,
+                            "fullRetailPrice": 225.8
+                        },
+                        {
+                            "priceLevelId": 350,
+                            "priceLevelName": "BZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 145.68,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 161.63,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 182.1,
+                            "fullRetailPrice": 198.05
+                        },
+                        {
+                            "priceLevelId": 351,
+                            "priceLevelName": "DZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 98.18,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 114.13,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 115.5,
+                            "fullRetailPrice": 131.45
+                        },
+                        {
+                            "priceLevelId": 352,
+                            "priceLevelName": "CZ05",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 131.88,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 147.83,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 155.15,
+                            "fullRetailPrice": 171.1
+                        },
+                        {
+                            "priceLevelId": 1581,
+                            "priceLevelName": "AZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 225.9,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 241.85,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 207.25,
+                            "fullRetailPrice": 223.2
+                        },
+                        {
+                            "priceLevelId": 1582,
+                            "priceLevelName": "BZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 199.09,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 215.04,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 182.65,
+                            "fullRetailPrice": 198.6
+                        },
+                        {
+                            "priceLevelId": 1583,
+                            "priceLevelName": "CZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 168.57,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 184.52,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 154.65,
+                            "fullRetailPrice": 170.6
+                        },
+                        {
+                            "priceLevelId": 1584,
+                            "priceLevelName": "DZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 126.99,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 142.94,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 116.5,
+                            "fullRetailPrice": 132.45
+                        },
+                        {
+                            "priceLevelId": 1585,
+                            "priceLevelName": "EZ06",
+                            "priceTypeId": 11,
+                            "priceTypeName": "General",
+                            "purchasePrice": 81.98,
+                            "purchaseFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "purchaseFeeTotal": 15.95,
+                            "fullPurchasePrice": 97.93,
+                            "retailFees": [
+                                {
+                                    "feeId": 3,
+                                    "feeName": "Service Charge",
+                                    "feePrice": 15.95
+                                }
+                            ],
+                            "retailFeeTotal": 15.95,
+                            "retailPrice": 75.21,
+                            "fullRetailPrice": 91.16
+                        }
+                    ],
+                    "limitType": "PriceLevel",
+                    "priceLevelIds": [
+                        350,
+                        351,
+                        352,
+                        354,
+                        355,
+                        356,
+                        357,
+                        358,
+                        359,
+                        361,
+                        362,
+                        363,
+                        365,
+                        366,
+                        367
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Michael Jackson ONE</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/loading-spinner.css">
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.12.0/d3.js"></script>
+  <script type="text/javascript">
+    function loadHandler() {
+      var spinner = document.getElementById("loading-spinner");
+      spinner.style.display = "none";
+    }
+  </script>
+</head>
+
+<body onload="loadHandler()">
+  <div id="high-impact">
+    <div id="loading-spinner">
+      <div class="spinner">
+        <div class="double-bounce1"></div>
+        <div class="double-bounce2"></div>
+      </div>
+    </div>
+    <iframe width="743" height="410" src="https://www.youtube.com/embed/Vtn-pnt1ub8?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+    <div id="schedule"></div>
+    <div id="seating-chart">
+      <div id="legend"></div>
+      <div id="seating-chart-svg"></div>
+    </div>
+</body>
+<script type="text/javascript" src="javascript/append-svg.js"></script>
+<script type="text/javascript" src="javascript/data-binding.js"></script>
+</html>

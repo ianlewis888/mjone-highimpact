@@ -1,0 +1,904 @@
+{
+    "result": {
+        "eventId": 51761,
+        "gaSections": [],
+        "seats": [
+            {
+                "key": "101-L-1",
+                "priceLevelId": 350,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "101-L-2",
+                "priceLevelId": 350,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "101-L-3",
+                "priceLevelId": 350,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-A-1",
+                "priceLevelId": 350,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-A-15",
+                "priceLevelId": 350,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-1",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-2",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-3",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-4",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-5",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-6",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-7",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-8",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-9",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-10",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-11",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-19",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-20",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-21",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-22",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-23",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-24",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-25",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-26",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-27",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-28",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-Q-29",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-S-20",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-S-21",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-S-22",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-S-23",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-S-24",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-S-25",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-S-26",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-S-27",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-S-28",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-S-29",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "102-S-30",
+                "priceLevelId": 349,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "103-B-4",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "103-B-7",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "103-B-8",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "103-S-10",
+                "priceLevelId": 350,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "103-S-11",
+                "priceLevelId": 350,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-DD-4",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-DD-5",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-FF-1",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-FF-2",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-FF-3",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-FF-4",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-FF-5",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-FF-6",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-FF-7",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-FF-8",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-FF-9",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-FF-10",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-GG-5",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-GG-6",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-GG-7",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-GG-8",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-GG-9",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-GG-10",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-GG-11",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-GG-12",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-GG-13",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-GG-14",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-NN-1",
+                "priceLevelId": 351,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-NN-2",
+                "priceLevelId": 351,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-NN-3",
+                "priceLevelId": 351,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-NN-4",
+                "priceLevelId": 351,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-NN-5",
+                "priceLevelId": 351,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-NN-6",
+                "priceLevelId": 351,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-NN-7",
+                "priceLevelId": 351,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-NN-8",
+                "priceLevelId": 351,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-NN-9",
+                "priceLevelId": 351,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-NN-10",
+                "priceLevelId": 351,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-NN-11",
+                "priceLevelId": 351,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-RR-9",
+                "priceLevelId": 200,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "Accessible",
+                "seatAlertId": null
+            },
+            {
+                "key": "201-RR-10",
+                "priceLevelId": 200,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "Accessible",
+                "seatAlertId": null
+            },
+            {
+                "key": "202-EE-3",
+                "priceLevelId": 199,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "202-EE-4",
+                "priceLevelId": 199,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "202-GG-3",
+                "priceLevelId": 350,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "202-GG-4",
+                "priceLevelId": 350,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "202-GG-5",
+                "priceLevelId": 350,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "202-PP-6",
+                "priceLevelId": 200,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "202-PP-11",
+                "priceLevelId": 200,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "203-NN-17",
+                "priceLevelId": 351,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "203-QQ-1",
+                "priceLevelId": 351,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "Accessible",
+                "seatAlertId": null
+            },
+            {
+                "key": "203-QQ-2",
+                "priceLevelId": 351,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "Accessible",
+                "seatAlertId": null
+            },
+            {
+                "key": "204-LL-6",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "204-LL-7",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "204-LL-8",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "204-LL-9",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "204-LL-10",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "204-LL-11",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "204-LL-12",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "205-EE-5",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "205-EE-6",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "205-EE-7",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "205-EE-8",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "205-EE-9",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "205-EE-10",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "205-EE-11",
+                "priceLevelId": 352,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "205-NN-11",
+                "priceLevelId": 351,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "205-NN-12",
+                "priceLevelId": 351,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "205-NN-13",
+                "priceLevelId": 351,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "205-NN-14",
+                "priceLevelId": 351,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "205-QQ-15",
+                "priceLevelId": 200,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "205-RR-9",
+                "priceLevelId": 200,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "205-RR-10",
+                "priceLevelId": 200,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "205-RR-11",
+                "priceLevelId": 200,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "205-RR-12",
+                "priceLevelId": 200,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            },
+            {
+                "key": "205-RR-13",
+                "priceLevelId": 200,
+                "tagId": null,
+                "holdSubclassId": null,
+                "adaType": "None",
+                "seatAlertId": null
+            }
+        ]
+    }
+}
