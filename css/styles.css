@@ -34,6 +34,56 @@
   cursor: pointer;
 }
 
+.tickets-from {
+  font-weight: bold;
+  position: absolute;
+  left: 577px;
+  top: 40px;
+  color: #ffffff;
+  text-align: right;
+  width: 75px;
+  line-height: .95em;
+}
+
+.dollar-sign {
+  font-weight: bold;
+  position: absolute;
+  left: 657px;
+  top: 40px;
+  color: #ffffff;
+  font-size: 1.1em;
+}
+
+.price {
+  font-weight: bold;
+  position: absolute;
+  left: 670px;
+  top: 33px;
+  color: #ffffff;
+  font-size: 2.5em;
+}
+
+.view-all {
+  font-size: .8em;
+  font-weight: bold;
+  position: absolute;
+  color: #333;
+  background-color: #fac50e;
+  border: solid 2px #fac50e;
+  padding: 7px;
+  border-radius: 100px;
+  top: 87px;
+  left: 600px;
+  width: 95px;
+  text-align: center;
+  transition: all 200ms ease;
+}
+.view-all:hover {
+  color: #fac50e;
+  background-color: #333;
+  border: solid 2px #666;
+}
+
 #seating-chart {
   left: 743px;
   width: 565px;
