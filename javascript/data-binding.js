@@ -141,7 +141,6 @@ function dataBinding(error, events, inventory) {
 
     // Adds tooltip to selected circles
     function addToolTip(seat) {
-      console.log('it worked!');
       var seatData = seat;
       seatDetails.style("display", "block").style("opacity", 1)
         .html(function(seatData) {
@@ -162,7 +161,13 @@ function dataBinding(error, events, inventory) {
         .on("click", function() {
           window.open("https://nliven.cirquedusoleil.com/tickets/series/ONE/michael-jackson-one-"+eventId+"#mapView");
         })
-        .style("left", (d3.event.pageX - 105) + "px")
-        .style("top", (d3.event.pageY - 195) + "px");
+        .style("left", function() {
+            var x = (d3.event.pageX < 1203) ? d3.event.pageX - 105 + "px" : "1098px";
+            return x;
+        })
+        .style("top", function() {
+            var y = (d3.event.pageY - 195 > 1) ? d3.event.pageY - 195 + "px" : "1px";
+            return y;
+        });
     }
 }
