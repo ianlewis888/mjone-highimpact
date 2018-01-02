@@ -19,7 +19,6 @@
   position: absolute;
   width: 1308px;
   height: 569px;
-  /*background-image: url("../images/Expanded.png");*/
   background-size: cover;
   border: 1px solid #000000;
 }
@@ -34,33 +33,44 @@
   cursor: pointer;
 }
 
-.tickets-from {
+.save {
   font-weight: bold;
   position: absolute;
-  left: 577px;
-  top: 40px;
+  left: 573px;
+  top: 42px;
   color: #ffffff;
   text-align: right;
   width: 75px;
   line-height: .95em;
 }
 
-.dollar-sign {
+.up-to {
   font-weight: bold;
   position: absolute;
-  left: 657px;
-  top: 40px;
+  left: 573px;
+  top: 57px;
   color: #ffffff;
-  font-size: 1.1em;
+  text-align: right;
+  width: 75px;
+  line-height: .95em;
 }
 
-.price {
+.amount {
   font-weight: bold;
   position: absolute;
-  left: 670px;
+  left: 653px;
   top: 33px;
   color: #ffffff;
   font-size: 2.5em;
+}
+
+.percentage-sign {
+  font-weight: bold;
+  position: absolute;
+  left: 701px;
+  top: 40px;
+  color: #ffffff;
+  font-size: 1.2em;
 }
 
 .view-all {

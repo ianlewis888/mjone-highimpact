@@ -27,6 +27,14 @@ function dataBinding(error, events, inventory) {
   // Store event ID
   var eventId = inventory.result.eventId;
 
+  // Store promo code
+  var promo = "";
+  events.result.forEach(function(d) {
+    if (d.id===eventId && d.eventPromotions[0].promotionCode) {
+      promo = "?promo=" + d.eventPromotions[0].promotionCode;
+    }
+  });
+
   // Retrieve unique price block IDs from inventory data
   var priceBlockIds = inventory.result.seats.reduce(function(a, b) {
     if (!a.includes(b.priceLevelId)) { a.push(b.priceLevelId); }
@@ -159,7 +167,8 @@ function dataBinding(error, events, inventory) {
             "<div class=\"button-wrapper\"><span class=\"buy-now\">BUY NOW</span></div>";
         })
         .on("click", function() {
-          window.open("https://nliven.cirquedusoleil.com/tickets/series/ONE/michael-jackson-one-"+eventId+"#mapView");
+          window.open("https://nliven.cirquedusoleil.com/tickets/series/ONE/michael-jackson-one-" +
+            eventId + promo + "#mapView");
         })
         .style("left", function() {
             var x = (d3.event.pageX < 1203) ? d3.event.pageX - 105 + "px" : "1098px";
